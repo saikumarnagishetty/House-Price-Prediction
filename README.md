@@ -1,7 +1,7 @@
 # House-Price-Prediction Using Machine Learning 
 
 ## Description 
-This project predictshouse prices using machine learning
+This project predicts house prices using machine learning
 ## Models Used
 - Extra trees regressor
 - XGBoost
