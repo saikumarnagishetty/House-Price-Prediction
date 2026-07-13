@@ -10,7 +10,7 @@ This project predicts house prices using machine learning
 - CatBoost
 - Ensemble Learning
   
-##Techniques
+## Techniques
 - Missing Value Handling
 - Feature Engineering
 - Log Transformation
